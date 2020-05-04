@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/cse598asg8_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1$$anonfun$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1$$anonfun$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1$$anonfun$random2dArray$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1$$anonfun$random2dArray$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1$$anonfun$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1$$anonfun$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	task1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shantanu/Desktop/cse598/cse598asg8/target/scala-2.11/classes/task1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

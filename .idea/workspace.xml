@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f0e3ba0-cee2-49c9-abdc-f5ad1861276c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cse598asg8" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://scala-decompiled/Matrix.decompiled.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bNFoxzzzs0x4zAYHZ4Zcm9jRlp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.task2">
+    <configuration name="task1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cse598.task1" />
+      <module name="cse598asg8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cse598.task2" />
+      <module name="cse598asg8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cse598.task3" />
+      <module name="cse598asg8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunProgram" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="~run" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task2" />
+      <item itemvalue="Application.task3" />
+      <item itemvalue="Application.task1" />
+      <item itemvalue="sbt Task.RunProgram" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="cse598asg8" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/shantanu/Desktop/cse598/cse598asg8/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="cse598asg8-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3559896928" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="3441400446" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../cse512/CSE512-Project-Phase2-Template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cse512/CSE512-phase2-Dds Project Group-2/CSE512-phase2-Dds Project Group/Source Code" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cse512/forked/CSE512-Project-Phase2-Template" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f0e3ba0-cee2-49c9-abdc-f5ad1861276c" name="Default Changelist" comment="" />
+      <created>1588464822206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588464822206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="274" width="800" height="677" key="#Intentions" timestamp="1588562104338">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="588" y="274" width="800" height="677" key="#Intentions/67.27.1853.1173@67.27.1853.1173" timestamp="1588562104338" />
+    <state x="726" y="343" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588564078688">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="2646" y="311" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588474329039" />
+    <state x="726" y="311" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588535863071" />
+    <state x="726" y="343" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1588564078688" />
+    <state x="409" y="371" width="1084" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588572362270">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="2371" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477415255" />
+    <state x="451" y="211" width="1084" height="785" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588466844314" />
+    <state x="409" y="371" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1588572362270" />
+    <state x="698" y="223" width="575" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588466475171">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="698" y="223" width="575" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588466475171" />
+    <state x="650" y="210" width="676" height="687" key="#task1" timestamp="1588469450418">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="650" y="210" width="676" height="687" key="#task1/67.27.1853.1053@67.27.1853.1053" timestamp="1588469450418" />
+    <state x="751" y="265" key="#xdebugger.evaluate" timestamp="1588562901500">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="751" y="265" key="#xdebugger.evaluate/67.27.1853.1173@67.27.1853.1173" timestamp="1588562901500" />
+    <state x="776" y="361" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588465861130">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="361" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1588465861130" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1588576882829">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477439949" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588535019367" />
+    <state width="1807" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1588576882829" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center" timestamp="1588576882828">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.center/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477439947" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588535019366" />
+    <state width="1807" height="269" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1588576882828" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left" timestamp="1588576882827">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.left/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477439946" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588535019366" />
+    <state width="1807" height="269" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1588576882827" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right" timestamp="1588576882829">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="269" key="GridCell.Tab.0.right/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477439948" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588535019367" />
+    <state width="1807" height="269" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1588576882829" />
+    <state width="1807" height="381" key="GridCell.Tab.1.bottom" timestamp="1588572410101">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="333" key="GridCell.Tab.1.bottom/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477438081" />
+    <state width="1807" height="333" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588533972111" />
+    <state width="1807" height="381" key="GridCell.Tab.1.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1588572410101" />
+    <state width="1807" height="381" key="GridCell.Tab.1.center" timestamp="1588572410101">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="333" key="GridCell.Tab.1.center/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477438078" />
+    <state width="1807" height="333" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588533972111" />
+    <state width="1807" height="381" key="GridCell.Tab.1.center/67.27.1853.1173@67.27.1853.1173" timestamp="1588572410101" />
+    <state width="1807" height="381" key="GridCell.Tab.1.left" timestamp="1588572410101">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="333" key="GridCell.Tab.1.left/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477438077" />
+    <state width="1807" height="333" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588533972111" />
+    <state width="1807" height="381" key="GridCell.Tab.1.left/67.27.1853.1173@67.27.1853.1173" timestamp="1588572410101" />
+    <state width="1807" height="381" key="GridCell.Tab.1.right" timestamp="1588572410101">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="333" key="GridCell.Tab.1.right/1987.27.1853.1053@1987.27.1853.1053" timestamp="1588477438079" />
+    <state width="1807" height="333" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588533972111" />
+    <state width="1807" height="381" key="GridCell.Tab.1.right/67.27.1853.1173@67.27.1853.1173" timestamp="1588572410101" />
+    <state x="482" y="188" key="SettingsEditor" timestamp="1588466781862">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588466781862" />
+    <state x="548" y="300" width="881" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588572184199">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="548" y="300" width="881" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1173@67.27.1853.1173" timestamp="1588572184199" />
+    <state x="638" y="265" width="710" height="576" key="find.popup" timestamp="1588465719659">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="638" y="265" width="710" height="576" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1588465719659" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/task2.scala</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/task2.scala</url>
+          <line>40</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="duration" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cse598asg8$task1.ic" NAME="task1 Coverage Results" MODIFIED="1588533972084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

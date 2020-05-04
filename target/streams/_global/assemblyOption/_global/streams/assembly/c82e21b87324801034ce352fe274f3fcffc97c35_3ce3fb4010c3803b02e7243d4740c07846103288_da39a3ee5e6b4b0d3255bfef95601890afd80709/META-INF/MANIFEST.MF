@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Parquet Column
+git-SHA-1: 4aba4dae7bb0d4edbcf7923ae1339f28fd3f7fcf
+Implementation-Version: 1.8.1
+Implementation-Vendor-Id: org.apache.parquet
+Built-By: alexlevenson
+Build-Jdk: 1.7.0_45
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Parquet Column
+Created-By: Apache Maven 3.2.5
+Specification-Version: 1.8.1
+Archiver-Version: Plexus Archiver
+
